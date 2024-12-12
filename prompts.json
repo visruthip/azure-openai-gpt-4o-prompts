@@ -1,0 +1,13 @@
+{
+    "prompts": [
+      {
+        "role": "user",
+        "content": "How far away is the moon from the Earth?"
+      },
+      {
+        "role": "user",
+        "content": "What is the capital of France?"
+      }
+    ]
+  }
+  
